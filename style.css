@@ -1,0 +1,119 @@
+body
+{
+	background-image: linear-gradient(#7f244d,#0c0307);
+	font-family: 'Lato', sans-serif;
+}
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#logo
+{
+	color:white;
+	margin-top:20px;	
+	font-size:44px;
+	letter-spacing:3px;
+	font-weight:900;
+}
+#menu
+{	
+	background-image: radial-gradient(circle at 30px 60px, #9f094d 10px, #600630 1100px);
+	margin-top:20px;
+	color: #ffffff;
+	padding: 10px;  
+}
+#topbar
+{
+	background-image: radial-gradient(circle at 30px 60px, #c10b5d 10px, #600630 1100px);
+	color:white;
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	height: 170px;
+}
+#topbarL
+{
+	float:left;
+	padding: 20px;
+	width:138px;
+	text-align:center;
+	border-right: 2px dotted #cccccc;
+}
+#topbarR
+{
+	float:left;
+	padding: 20px;
+	width:760px;
+	font-size:16px;	
+	text-align: justify;
+}
+#sidebar
+{
+	width:148px;
+	float:left;
+	min-height:620px;
+	padding: 20px;
+	text-align:center;
+	font-size : 18px;
+	background-color: lightgray;
+	border-right: 2px dotted #666666;
+}
+#content
+{
+	width:730px;
+	float:left;
+	min-height:580px;
+	padding: 40px;
+	background-color: #dedede;
+	text-align:justify;	
+}
+#cytat
+{
+	font-size: 25px;
+}
+#logoszkoly
+{
+	margin-top:20px;
+	margin-left:110px;	
+}
+.option
+{
+	float:left;
+	min-width: 50px;
+	height:25px;
+	font-size:18px;
+	padding: 10px;
+	border-right:2px dotted #444444;
+	opacity:0.8;	
+}
+.optionl
+{
+	height:25px;
+	font-size:18px;
+	padding: 10px;
+	border-bottom:2px dotted #444444;
+}
+
+.btitle
+{
+	font-size: 35px;
+	font-weight: 900;
+	letter-spacing: 2px;
+	
+}
+.line
+{
+	height:5px;
+	margin-top:15px;
+	margin-bottom: 15px;
+	border-bottom:2px dotted #444444;
+}
+.autor
+{
+	font-size: 35px;
+	font-weight: 900;
+	letter-spacing: 2px;
+	margin-left:60px;
+}
